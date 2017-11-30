@@ -1,0 +1,10 @@
+a:hover{
+	text-decoration: none;
+	color:#dbdbdb;
+}
+a:focus{
+	text-decoration: none;
+}
+.todo.line{
+	text-decoration: line-through;
+}
